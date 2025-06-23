@@ -29,5 +29,10 @@ The program also includes basic error handling to detect connection issues or se
 
 *OUTPUT* :
 
+![Image](https://github.com/user-attachments/assets/d09bebaf-76a0-4f60-aaea-fe63b0e89811)
+
+
+![Image](https://github.com/user-attachments/assets/c27e3f22-2e1d-4b76-a5f1-47d6e6c08761)
+
 
 
